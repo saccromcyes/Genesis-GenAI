@@ -1,7 +1,7 @@
 # GENESIS  
 ### Offline Self-Improving Multi-Agent GenAI System (No API Keys Required)
 
-GENESIS is a production-style, fully offline Generative AI system that plans, reasons, critiques itself, refines its responses, and learns from long-term memory — without relying on proprietary APIs.
+GENESIS is a production-style, fully offline Generative AI system that plans, reasons, critiques itself, refines its responses, and learns from long-term memory without relying on proprietary APIs.
 
 Unlike typical chatbot demos, GENESIS implements a modular multi-agent architecture combined with Retrieval-Augmented Generation (RAG), evaluation tracking, and persistent memory to produce grounded, traceable AI responses.
 
