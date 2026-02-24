@@ -1,0 +1,8 @@
+[project]
+name = "genesis-offline-genai"
+version = "1.0.0"
+description = "Offline self-improving multi-agent RAG system (no API keys)."
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
